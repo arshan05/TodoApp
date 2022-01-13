@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string-array name="priority_array">
+        <item>important</item>
+        <item>Moderate</item>
+        <item>Not Important</item>
+    </string-array>
+    <string name="hint_word">Word...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="add_word">Add word</string>
+</resources>
